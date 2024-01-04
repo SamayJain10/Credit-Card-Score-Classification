@@ -19,7 +19,7 @@ pip install pandas numpy plotly scikit-learn
 Note: This project uses Plotly for visualization, which provides interactive charts.
 
 ## Dataset
-The dataset used in this project (`train.csv`) includes various financial attributes of individuals, along with their credit scores. Key columns in the dataset include:
+The dataset used in this project (`train.csv`) has been taken from Kaggle and includes various financial attributes of individuals, along with their credit scores. Key columns in the dataset include:
 - `Annual_Income`
 - `Occupation`
 - `Num_Bank_Accounts`
