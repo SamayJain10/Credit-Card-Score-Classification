@@ -45,5 +45,3 @@ To use the predictive model, input the required financial data when prompted, an
 - Incorporating more features that could impact credit scores.
 - Implementing a web interface for easier interaction with the predictive model.
 
-## Contact
-For any queries or suggestions, feel free to reach out to [Your Name or Contact Information].
